@@ -1,0 +1,6 @@
+0,1,2,3,4
+example file,"[0,0,0,0]",caption for first box,,,
+2.jpg,"[16, 112, 405, 203]",caption for first box,"[18, 330, 398, 433]",caption for second box
+2.jpg,"[16, 112, 405, 203]",,"[18, 330, 398, 433]",caption for second box
+2.jpg,"[16, 112, 405, 203]",caption for first box,"[18, 330, 398, 433]",,
+2.jpg,"[16, 112, 405, 203]",,,caption for second box,
