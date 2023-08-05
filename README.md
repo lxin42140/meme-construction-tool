@@ -5,7 +5,7 @@ A custom meme generation tool designed to efficiently automate and batch-produce
 It supports the generation of meme through GUI approach, or through CSV metadata-based approach.
 
 ## Overview of CSV based approach
-[](./assets/overview_csv.jpg)
+![](./assets/overview_csv.jpg)
 
 ## Overview of GUI based approach
-[](./assets/overview_gui.jpg)
+![](./assets/overview_gui.jpg)
